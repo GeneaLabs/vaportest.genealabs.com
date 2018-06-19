@@ -38,30 +38,21 @@
         }
       },
       {
-        "package": "Fluent",
-        "repositoryURL": "https://github.com/vapor/fluent.git",
-        "state": {
-          "branch": null,
-          "revision": "ba8bd2fb3c09cd6e9e2e75eb8cf7c3968d123fb9",
-          "version": "3.0.0-rc.3.0.1"
-        }
-      },
-      {
-        "package": "FluentSQLite",
-        "repositoryURL": "https://github.com/vapor/fluent-sqlite.git",
-        "state": {
-          "branch": null,
-          "revision": "8c5c44a76c6d47034607c1af6286ede85581d3f5",
-          "version": "3.0.0-rc.3.0.1"
-        }
-      },
-      {
         "package": "HTTP",
         "repositoryURL": "https://github.com/vapor/http.git",
         "state": {
           "branch": null,
           "revision": "8123ea00e9858b369cd168d0303d33e7d3804d19",
           "version": "3.0.7"
+        }
+      },
+      {
+        "package": "Leaf",
+        "repositoryURL": "https://github.com/vapor/leaf.git",
+        "state": {
+          "branch": null,
+          "revision": "a71cb0cd29ec88ee72baa00668c05e327114f27c",
+          "version": "3.0.0-rc.2.2"
         }
       },
       {
@@ -89,15 +80,6 @@
           "branch": null,
           "revision": "281a70b69783891900be31a9e70051b6fe19e146",
           "version": "1.0.0"
-        }
-      },
-      {
-        "package": "SQLite",
-        "repositoryURL": "https://github.com/vapor/sqlite.git",
-        "state": {
-          "branch": null,
-          "revision": "7670865534744e5acc1f8899a7d0110d7c2c5ab5",
-          "version": "3.0.0-rc.3.0.1"
         }
       },
       {
@@ -170,6 +152,15 @@
           "branch": null,
           "revision": "09faa90db7ca49d7f75d5f8e385abce93bc7afb3",
           "version": "3.0.4"
+        }
+      },
+      {
+        "package": "VaporForms",
+        "repositoryURL": "/Users/mike/Developer/VaporForms",
+        "state": {
+          "branch": "master",
+          "revision": "3e33313baefff8a8bbca55fdaa77a3b419d9eaef",
+          "version": null
         }
       },
       {
