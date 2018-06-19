@@ -156,10 +156,10 @@
       },
       {
         "package": "VaporForms",
-        "repositoryURL": "/Users/mike/Developer/VaporForms",
+        "repositoryURL": "https://github.com/GeneaLabs/VaporForms.git",
         "state": {
           "branch": "master",
-          "revision": "3e33313baefff8a8bbca55fdaa77a3b419d9eaef",
+          "revision": "6e14dea7dd700589d6a416cb54fc0770590b37fd",
           "version": null
         }
       },

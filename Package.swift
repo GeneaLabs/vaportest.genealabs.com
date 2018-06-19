@@ -6,7 +6,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/vapor/vapor.git", from: "3.0.4"),
         .package(url: "https://github.com/vapor/leaf.git", from: "3.0.0-rc.2"),
-        .package(url: "https://github.com/vapor/VaporForms.git", .branch("master")),
+        .package(url: "https://github.com/GeneaLabs/VaporForms.git", .branch("master")),
     ],
     targets: [
         .target(name: "App", dependencies: ["Leaf", "Vapor", "VaporForms"]),
